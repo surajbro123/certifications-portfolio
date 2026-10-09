@@ -28,7 +28,7 @@ through structured learning and practical projects.
 
 ### 📜 Certificate
 
-![YUVA AI For All Certificate](yuva-ai-for-all-certificate.png)
+📄 View My YUVA AI For All Certificate](yuva-ai-for-all-certificate.pdf))
 
 ---
 
