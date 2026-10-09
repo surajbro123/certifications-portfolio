@@ -26,9 +26,17 @@ This achievement reflects my continued interest in Artificial
 Intelligence and my commitment to developing my technical knowledge
 through structured learning and practical projects.
 
-### 📜 Certificate
+## 📜 Certificate of Completion
 
-📄 View My YUVA AI For All Certificate](yuva-ai-for-all-certificate.pdf))
+<div align="center">
+
+### YUVA AI For All — IndiaAI × TCS iON
+
+[![YUVA AI For All Certificate](yuva-ai-for-all-certificate.png)](TCS_Certificate_Suraj_Kumar_40046.pdf)
+
+*Click the certificate image to view the original PDF.*
+
+</div>
 
 ---
 
